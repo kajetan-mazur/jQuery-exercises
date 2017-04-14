@@ -5,3 +5,5 @@ Check if jQuery is loaded
 ##### jQuery .animate() exercises - http://api.jquery.com/animate/
 #### Exercise 2
 If You would have very long website - How to help user with fast getting back on top :)
+#### Exercise 3
+If You would like to change sizes of Your div/button with oneclick :)
